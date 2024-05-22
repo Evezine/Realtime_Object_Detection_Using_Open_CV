@@ -3,20 +3,20 @@
 This project implements a live object detection system using the YOLOv8 model, which can trigger an alarm when the number of detected persons exceeds a threshold. It also includes user authentication and permissions to differentiate actions based on user roles.
 
 #  Features
-Live video capture using a webcam.
-Object detection using the YOLOv8 model.
-User authentication and role-based permissions.
-Alarm system triggered based on the number of detected persons.
-Real-time annotations on the video feed.
+*Live video capture using a webcam.
+*Object detection using the YOLOv8 model.
+*User authentication and role-based permissions.
+*Alarm system triggered based on the number of detected persons.
+*Real-time annotations on the video feed.
 
 
 #  Requirements
-Python 3.7 or later
-OpenCV
-Pygame
-NumPy
-Ultralytics YOLO
-Supervision (sv) library
+*Python 3.7 or later
+*OpenCV
+*Pygame
+*NumPy
+*Ultralytics YOLO
+*Supervision (sv) library
 
 
 #  Usage
